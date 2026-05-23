@@ -1,4 +1,4 @@
-<a href="https://github.com/MAES-Pyramids/MAES-Pyramids/blob/main/Abo%20El-Seoud%20CV.pdf" target="_blank"><img align="right" src="https://raw.githubusercontent.com/MAES-Pyramids/MAES-Pyramids/main/img%20sources/cv%20.png" alt="My CV" width="70" ></a>
+<a href="https://github.com/Abo-ElSeoud/Abo-ElSeoud/blob/main/Abo%20El-Seoud%20CV.pdf" target="_blank"><img align="right" src="https://raw.githubusercontent.com/Abo-ElSeoud/Abo-ElSeoud/main/img%20sources/cv%20.png" alt="My CV" width="70" ></a>
 
 [![wakatime](https://wakatime.com/badge/user/a6c324a3-a241-4b2b-b691-172f84db107d.svg)](https://wakatime.com/@a6c324a3-a241-4b2b-b691-172f84db107d)
 
@@ -16,7 +16,7 @@
   
  
 <div > 
-  <!-- <img src="https://github.com/MAES-Pyramids/MAES-Pyramids/blob/main/img%20sources/profile-img.png" align="right" width="25%"/> -->
+  <!-- <img src="https://github.com/Abo-ElSeoud/Abo-ElSeoud/blob/main/img%20sources/profile-img.png" align="right" width="25%"/> -->
   
 <!-- ## I'm a Computer Science  Student  -->
 
@@ -78,11 +78,11 @@
 <div align="center">
   <!-- Contribution Graph -->
   <div style="margin: 20px 0;">
-    <a href="https://github.com/MAES-Pyramids/">
+    <a href="https://github.com/Abo-ElSeoud/">
       <img 
         align="center" 
         width="78%"  
-        src="https://github-readme-activity-graph.vercel.app/graph?username=maes-pyramids&theme=monokai&area=true&custom_title=Contribution%20Graph&bg_color=272822&color=f8f8f2&line=a6e22e&point=f92672&area_color=66d9ef" 
+        src="https://github-readme-activity-graph.vercel.app/graph?username=Abo-ElSeoud&theme=monokai&area=true&custom_title=Contribution%20Graph&bg_color=272822&color=f8f8f2&line=a6e22e&point=f92672&area_color=66d9ef" 
         alt="Contribution Graph" 
       />
     </a>  
@@ -90,37 +90,40 @@
 
   <!-- Streak Stats and Top Languages -->
   <p align="center"  >
-    <a href="https://github.com/MAES-Pyramids/">
-      <img align="center" width="415px" src="https://github-readme-streak-stats.herokuapp.com/?user=maes-pyramids&theme=monokai" alt="Streak Stats" />
+    <a href="https://github.com/Abo-ElSeoud/">
+      <img align="center" width="415px" src="https://github-readme-streak-stats.herokuapp.com/?user=Abo-ElSeoud&theme=monokai" alt="Streak Stats" />
     </a>
-    <a href="https://github.com/MAES-Pyramids/">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAES-Pyramids&layout=compact&theme=monokai" alt="Top Languages" />
-    </a>
-  </p>
-
+ 
   <!-- General Stats -->
-  <div>
-  <a href="https://github.com/MAES-Pyramids/">
+  <a href="https://github.com/Abo-ElSeoud/">
     <img 
       align="center" 
       width="500px" 
-      src="https://github-readme-stats-sigma-five.vercel.app/api?username=MAES-Pyramids&show_icons=true&include_all_commits=true&count_private=true&theme=monokai&line_height=22" 
+      src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abo-ElSeoud&show_icons=true&include_all_commits=true&count_private=true&theme=monokai&line_height=22" 
       alt="General Stats" 
     />
   </a>
-</div>
+      
+  </p>
+
+
+
 
   <!-- Wakatime Stats -->
-<div>
-  <a href="https://github.com/MAES-Pyramids/">
-    <img 
+ <!--  <a href="https://github.com/Abo-ElSeoud/"> <img 
       align="center" 
       width="500px" 
       src="https://github-readme-stats.vercel.app/api/wakatime?username=MAES&langs_count=10&theme=monokai&layout=compact" 
       alt="Wakatime Stats" 
-    />
-  </a>
-</div>
+    />  </a> -->
+
+  
+
+
+  <!-- top-langs -->
+   <!-- <a href="https://github.com/Abo-ElSeoud/">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abo-ElSeoud&layout=compact&theme=monokai" alt="Top Languages" />
+    </a> -->
 
 </div>
 
@@ -132,13 +135,13 @@
 
 
 <div align="center"> 
-<!-- <a href="https://github.com/MAES-Pyramids/"><img src="https://github-profile-trophy.vercel.app/?username=MAES-Pyramids&theme=monokai" alt="Abo El-Seoud Trophies" /></a> -->
+<!-- <a href="https://github.com/Abo-ElSeoud/"><img src="https://github-profile-trophy.vercel.app/?username=Abo-ElSeoud&theme=monokai" alt="Abo El-Seoud Trophies" /></a> -->
     
-<a href="https://github.com/MAES-Pyramids/">
-      <img align="center" width="445px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MAES-pyramids&theme=monokai" />
+<a href="https://github.com/Abo-ElSeoud/">
+      <img align="center" width="445px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abo-ElSeoud&theme=monokai" />
     </a>
-<a href="https://github.com/MAES-Pyramids/">
-      <img align="center" width="215px" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MAES-pyramids&theme=monokai" />
+<a href="https://github.com/Abo-ElSeoud/">
+      <img align="center" width="215px" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abo-ElSeoud&theme=monokai" />
     </a>
     
 </div> 
@@ -150,7 +153,7 @@
 
 
 
-![VisitorCount](https://visitor-badge.laobi.icu/badge?page_id=maes-pyramids.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)         
+![VisitorCount](https://visitor-badge.laobi.icu/badge?page_id=Abo-ElSeoud.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)         
 
 </div>
 
